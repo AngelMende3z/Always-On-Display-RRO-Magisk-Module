@@ -28,7 +28,7 @@ Este módulo es compatible con Android P+
 Probado en J7 2015 Android 13 con Lineage OS, gracias.
 
 # Créditos - Credits
-_elmendez__
+__elmendez__
 https://www.instagram.com/_elmendez__?igsh=MWluMHcyazJlZjMxeA==
 
 # 𝓖𝓻𝓪𝓬𝓲𝓪𝓼 𝓪 𝒱𝒶𝓁ℯ𝓇𝒾𝒶 𝓹𝓸𝓻 𝓶𝓸𝓽𝓲𝓿𝓪𝓻𝓶𝓮 𝓪 𝓼𝓮𝓰𝓾𝓲𝓻 𝓬𝓸𝓷 𝓮𝓼𝓽𝓮 𝓬𝓸𝓭𝓲𝓰𝓸 𝓵𝓵𝓮𝓷𝓸 𝓭𝓮 𝓪𝓶𝓸𝓻 𝔂 𝓮𝓼𝓯𝓾𝓮𝓻𝔃𝓸 💘 
