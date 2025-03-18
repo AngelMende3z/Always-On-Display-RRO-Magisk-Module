@@ -15,7 +15,8 @@ Tested On J7 2015 Android 13 With Lineage OS, Thanks.
 
 
 # Español - Spanish
-# Siempre En Pantalla Con Overoay RRO
+# Siempre En Pantalla Con Overlay RRO 
+Android Es La Revolución 
 
 # Información
 Este módulo fue creado por Shagbag 913 pero dejó de funcionar y lo modifiqué para hacerlo funcionar.
