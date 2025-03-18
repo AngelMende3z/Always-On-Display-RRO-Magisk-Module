@@ -21,7 +21,7 @@ Este módulo fue creado por Shagbag 913 pero dejó de funcionar y lo modifiqué 
 # Cómo funciona
 Este módulo mueve una superposición de AOD (Siempre En Pantalla) a un directorio de sistema (system/product/overlay/AOD), el sistema lo reconoce en ajustes de pantalla/pantalla ambiente.
 
-# Compatibilidad # Compatibilidad 
+# Compatibilidad
 Este módulo es compatible con Android P+
 
 # Probado En...
