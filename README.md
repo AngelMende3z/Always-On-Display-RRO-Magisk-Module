@@ -1,9 +1,6 @@
 # Always-On-Display-RRO-Magisk-Module
 Android Is Revolution.
 
-# Info
-This Module Was Created by shagbag913 but stoped working and i modified it .
-
 # How It Works
 This module moves an AOD Overlay to a system directory (System/Product/Overlay/Aod), the system recognizes it in screen settings. 
 
