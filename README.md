@@ -15,9 +15,6 @@ Tested On J7 2015 Android 13 With Lineage OS, Thanks.
 # Siempre En Pantalla Con Overlay RRO 
 Android Es La Revolución 
 
-# Información
-Este módulo fue creado por Shagbag 913 pero dejó de funcionar y lo modifiqué para hacerlo funcionar.
-
 # Cómo funciona
 Este módulo mueve una superposición de AOD (Siempre En Pantalla) a un directorio de sistema (system/product/overlay/AOD), el sistema lo reconoce en ajustes de pantalla/pantalla ambiente.
 
